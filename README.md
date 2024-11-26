@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=yunusyuna&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
