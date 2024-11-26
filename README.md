@@ -1,5 +1,4 @@
-## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=15F769&width=435&lines=Welcome+All+!;To+the+treasures+of+yunusyuna)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=15F769&width=435&lines=%23%23+Hi+there+%F0%9F%91%8B;Welcome+to+the+treasures+of+yunusyuna)](https://git.io/typing-svg)
 <!--
 **yunusyuna/yunusyuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
